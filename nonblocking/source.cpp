@@ -1,7 +1,9 @@
-// #include "server.h"
+#include "server.h"
 
-// int main() {
-//     Server s = Server();
-//     s.start();
-//     return 0;
-// }
+int main() {
+    Server s = Server();
+    s.start();
+    return 0;
+}
+
+main();
